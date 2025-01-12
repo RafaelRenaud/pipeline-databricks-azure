@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-renaud",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8293b1ad-aedd-4d15-b747-c09661a184d4",
+		"tenantId": "26f0133e-6491-4311-83d1-16d2b3079e75"
+	}
+}
