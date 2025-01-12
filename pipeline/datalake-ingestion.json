@@ -13,7 +13,14 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/renaudrafa@hotmail.com/pipeline-databricks-azure/notebooks/script_02"
+				},
+				"linkedServiceName": {
+					"referenceName": "DatabricksLinkedService",
+					"type": "LinkedServiceReference"
+				}
 			},
 			{
 				"name": "script_03",
@@ -33,7 +40,14 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/renaudrafa@hotmail.com/pipeline-databricks-azure/notebooks/script_03"
+				},
+				"linkedServiceName": {
+					"referenceName": "DatabricksLinkedService",
+					"type": "LinkedServiceReference"
+				}
 			}
 		],
 		"annotations": []
